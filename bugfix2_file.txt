@@ -2,3 +2,4 @@ This is created in order to fix bug2
 I forgot to add this line to actually fix.
 Now I really fixing this!
 This is going to be really annoying!
+Okay, I'm really close to fixing this.
